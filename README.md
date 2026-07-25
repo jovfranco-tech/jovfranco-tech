@@ -1,101 +1,98 @@
 # Jovan Franco
 
 <p align="center">
-  <img src="assets/jovan-franco-profile.webp" alt="Jovan Franco — Technology Transformation Leader & AI-Native Product Systems Architect" width="280" style="border-radius: 8px; margin-bottom: 16px;" />
+  <img src="assets/jovan-franco-profile.webp" alt="Jovan Franco — Regional Technology Transformation Leader" width="280" style="border-radius: 8px; margin-bottom: 16px;" />
 </p>
 
 <p align="center">
-  <strong>AI-Native Product Systems Architect | Regional IT, Cloud, Cybersecurity, Resilience & AI Governance</strong><br />
-  Mexico City, Mexico • 15+ Years Regional Technology Leadership • 16 LATAM Countries
+  <strong>Regional Technology Transformation Leader | AI Governance, Cloud, Cybersecurity, Resilience & AI-Native Systems</strong><br />
+  Mexico City, Mexico • 15+ Years of Regional Technology Leadership • 16 LATAM Countries
 </p>
 
 <p align="center">
+  <a href="https://github.com/jovfranco-tech/executive-ai-it-leadership-suite-showcase"><strong>Primary Executive Portfolio</strong></a> •
   <a href="https://www.jovanfranco.com"><strong>Website & Executive Insights</strong></a> •
-  <a href="https://www.linkedin.com/in/jovan-franco-6467871b/"><strong>LinkedIn Profile</strong></a>
+  <a href="https://www.linkedin.com/in/jovan-franco-6467871b/"><strong>LinkedIn</strong></a>
 </p>
+
+---
+
+## Executive Snapshot
+
+| Evidence | Scope |
+| :--- | :--- |
+| **USD $5.7M+ documented professional savings** | Infrastructure, technology consolidation, workload optimization and operational efficiency across career roles |
+| **16-country regional footprint** | Technology delivery and operational leadership across Latin America, coordinated with global engineering teams |
+| **1,800+ hours of AI-native product execution** | Architecture, supervised agentic development, interactive systems and enterprise decision-support prototypes |
+| **Governance-led delivery** | PMP®, ISO/IEC 42001 Lead Auditor, ISO 22301 Lead Auditor and Associate CCISO |
+
+## Primary Portfolio Entry
+
+### [Executive AI & IT Leadership Suite](https://github.com/jovfranco-tech/executive-ai-it-leadership-suite-showcase)
+
+A unified executive portfolio showing how AI governance, agent oversight, PMO intelligence, IT operations, AI investment management and hybrid FinOps can support enterprise technology decisions.
+
+The suite connects six public portfolio demonstrations to the operating model of **Executive Command Center**, a private-source commercial decision-support platform for technology, AI, risk, operations and portfolio leadership.
 
 ---
 
 ## Executive Profile
 
-Senior Technology Transformation Leader with 15+ years of experience directing enterprise IT infrastructure, cloud architecture, cybersecurity governance, operational resilience, and AI-native product execution across Latin America. Proven track record connecting complex technical execution with board-level business metrics—delivering measurable cost optimization, risk reduction, and operational stability.
+Senior Technology Transformation Leader with 15+ years of experience directing enterprise infrastructure, cloud architecture, cybersecurity governance, operational resilience and AI-native product systems across Latin America.
 
-PMP® certified and ISO/IEC 42001 Lead Auditor, specializing in translating emerging AI capabilities into enterprise-grade operational systems governed by clear ownership, control evidence, and human oversight.
-
----
-
-## Core Capabilities & Executive Impact
-
-- **Documented Professional Savings**: Delivered **USD $5.7M+** in documented cumulative professional infrastructure and technology savings across career roles, achieved through workload optimization, consolidation, and operational efficiency without additional CAPEX (not product revenue or a single-product result).
-- **Regional Scale & Footprint**: Direct operational leadership and delivery across **16 LATAM countries**, coordinating regional operations with global engineering hubs in the United States and India.
-- **Hands-On AI Engineering & Agentic Development**: Estimated **1,800+ hours** of hands-on, AI-assisted product building, architecture design, and supervised agentic system development.
-- **Governance, Compliance & Resilience**: Certified **ISO/IEC 42001 Lead Auditor** and **ISO 22301 Lead Auditor**, establishing audit-ready AI governance frameworks, business continuity plans, and Zero Trust security controls.
+My work connects technical execution with board-level outcomes: cost optimization, risk reduction, operational stability, auditable governance and clearer investment decisions. I specialize in translating emerging AI capabilities into controlled enterprise systems with explicit ownership, evidence, human oversight and measurable business value.
 
 ---
 
-## Selected Credentials & Certifications
+## Selected Public Work
 
-- **Project Management**: Project Management Professional (PMP®) — Project Management Institute
-- **AI Governance & Management**:
-  - ISO/IEC 42001 Lead Auditor (Artificial Intelligence Management System)
-- **Cloud Architecture & Engineering**:
-  - Microsoft Certified: Azure Solutions Architect Expert
-  - Microsoft Certified: Azure AI Engineer Associate
-- **Resilience & Security**:
-  - ISO 22301 Lead Auditor (Business Continuity Management)
-  - Associate CCISO — EC-Council
+| Portfolio Project | What it demonstrates | Live experience |
+| :--- | :--- | :--- |
+| **[Executive AI & IT Leadership Suite](https://github.com/jovfranco-tech/executive-ai-it-leadership-suite-showcase)** | Executive operating model across AI governance, PMO, operations, portfolio and FinOps | Six linked public modules |
+| **[AI Governance Control Tower](https://github.com/jovfranco-tech/ai-governance-control-tower-showcase)** | ISO/IEC 42001-inspired intake, risk, controls, exceptions and audit evidence | [Open demo](https://ai-governance-control-tower.vercel.app/) |
+| **[AI Agent Governance Registry](https://github.com/jovfranco-tech/ai-agent-governance-registry-showcase)** | Agent ownership, permission boundaries, risk classification and human approval gates | [Open demo](https://ai-governance-registry.vercel.app/) |
+| **[Agent Office World](https://github.com/jovfranco-tech/Agent-Office-World)** | Visual multi-agent operating model and deterministic organizational simulation | [Open demo](https://agent-office-world.vercel.app/) |
+| **[Florería Paola Taste Lab](https://github.com/jovfranco-tech/floreria-paola-taste-lab)** | Before-and-after UX, information architecture and conversion-oriented design | [Open demo](https://floreria-paola-taste-lab.vercel.app/) |
+| **[Caribbean Asteroid Twin](https://github.com/jovfranco-tech/caribbean-asteroid-twin)** | Responsible 3D geospatial storytelling and fictional command-center visualization | [Open demo](https://caribbean-asteroid-twin.vercel.app/) |
 
 ---
 
-## Technical & Architectural Governance
+## Leadership & Architecture Domains
 
-| Domain | Core Frameworks & Technologies |
+| Domain | Focus |
 | :--- | :--- |
-| **AI Governance & Agentic Systems** | ISO/IEC 42001, NIST AI RMF, Agent Ownership Models, Risk Tiering, Human Oversight Gates |
-| **Cloud Architecture & FinOps** | Azure Enterprise Scale, Multi-Region Cloud, Cost Optimization, Resource Governance, FinOps |
-| **Cybersecurity & Resilience** | Zero Trust Architecture, ISO 27001 / ISO 22301, Threat Triage, DR & BC Planning, SecOps Governance |
-| **Modern Stack & Interactive Systems** | TypeScript, React, Next.js, Node.js, Three.js, Python, Tailwind CSS, REST / GraphQL APIs |
+| **AI Governance & Agentic Systems** | ISO/IEC 42001, NIST AI RMF, ownership models, risk tiering, permission boundaries and human oversight |
+| **Cloud Architecture & FinOps** | Azure enterprise architecture, multi-region platforms, workload optimization, cost governance and value realization |
+| **Cybersecurity & Resilience** | Zero Trust, ISO 27001 / ISO 22301, operational risk, disaster recovery, continuity and SecOps governance |
+| **Portfolio & Transformation Leadership** | PMP, hybrid delivery, PMO intelligence, investment prioritization and executive decision support |
+| **Interactive Product Systems** | TypeScript, React, Next.js, Node.js, Three.js, Python and API-driven architectures |
 
 ---
 
-## Featured Public Portfolio Demonstrations
+## Selected Credentials
 
-The following public web applications and architectural showcases demonstrate executive decision-support models, AI governance frameworks, and interactive system prototypes built with representative data:
-
-1. **[Executive AI & IT Leadership Suite Showcase](https://github.com/jovfranco-tech/executive-ai-it-leadership-suite-showcase)** *(Primary Portfolio Showcase)*
-   - *Scope*: Master architectural showcase unifying six domain portfolio modules under the Executive Command Center operating model.
-   - *Key Focus*: Comprehensive decision support for AI governance, agent registry, PMO velocity, IT operations, AI portfolio, and hybrid FinOps.
-
-2. **[AI Governance Control Tower](https://ai-governance-control-tower.vercel.app/)**
-   - *Scope*: ISO/IEC 42001 aligned prototype for AI project intake scoring, control tracking, risk registers, and audit-ready evidence logs. ([Showcase Repository](https://github.com/jovfranco-tech/ai-governance-control-tower-showcase))
-   - *Key Focus*: Verifiable AI governance and policy exception lifecycle.
-
-3. **[AI Agent Governance Registry](https://ai-governance-registry.vercel.app/)**
-   - *Scope*: Public registry prototype defining agent ownership, permission boundaries, risk classifications, and human-in-the-loop controls. ([Showcase Repository](https://github.com/jovfranco-tech/ai-agent-governance-registry-showcase))
-   - *Key Focus*: Operational control over autonomous agentic workflows.
-
-4. **[Agent Office World](https://agent-office-world.vercel.app/)**
-   - *Scope*: Isometric 2D/3D office simulation demonstrating real-time AI agent collaboration, task routing, and interactive workplace dynamics.
-   - *Key Focus*: Interactive multi-agent collaboration visualization.
-
-5. **[Florería Paola Taste Lab](https://floreria-paola-taste-lab.vercel.app/)**
-   - *Scope*: Design system and front-end architecture comparison lab evaluating UX metrics and performance upgrades.
-   - *Key Focus*: Modern web design aesthetics and front-end engineering precision.
+- **Project Management Professional (PMP®)** — Project Management Institute
+- **ISO/IEC 42001 Lead Auditor** — Artificial Intelligence Management Systems
+- **ISO 22301 Lead Auditor** — Business Continuity Management
+- **Microsoft Certified: Azure Solutions Architect Expert**
+- **Microsoft Certified: Azure AI Engineer Associate**
+- **Associate CCISO** — EC-Council
 
 ---
 
-## Responsible Disclosure & Portfolio Boundaries
+## Responsible Portfolio Boundaries
 
 > [!NOTE]
-> Public repositories and web applications hosted under this profile represent open portfolio demonstrations, architectural prototypes, and decision-support models built using representative data. They illustrate engineering capabilities and governance methodologies, and are distinct from confidential client production environments and proprietary enterprise infrastructure managed under NDA.
+> Public repositories and web applications under this profile are portfolio demonstrations, architectural prototypes and decision-support models built with synthetic or representative data. They are distinct from confidential client environments, production enterprise infrastructure and proprietary commercial source repositories.
 
 ---
 
-## Accesibilidad en Español / Summary in Spanish
+## Resumen en Español
 
-**Jovan Franco — Director de Transformación Tecnológica y Arquitecto de Sistemas de IA**
+**Jovan Franco — Líder Regional de Transformación Tecnológica y Sistemas de IA**
 
-Líder senior de tecnología con más de 15 años de experiencia liderando infraestructura de TI, arquitectura en la nube, ciberseguridad y gobernanza de IA en 16 países de Latinoamérica. Con certificación PMP® y Auditor Líder ISO/IEC 42001, su enfoque combina rigor de ingeniería con impacto de negocio medible, incluyendo más de $5.7M USD en ahorros acumulados documentados en su trayectoria y aproximadamente 1,800 horas de desarrollo asistido por IA.
+Líder senior con más de 15 años de experiencia en infraestructura empresarial, nube, ciberseguridad, resiliencia, gobernanza de IA y transformación tecnológica en 16 países de Latinoamérica. Su trayectoria incluye más de **USD $5.7M en ahorros profesionales documentados**, certificación **PMP®**, Auditor Líder **ISO/IEC 42001** y aproximadamente **1,800 horas de construcción de sistemas asistidos por IA**.
 
-- **Sitio Web**: [www.jovanfranco.com](https://www.jovanfranco.com)
-- **LinkedIn**: [Perfil Profesional](https://www.linkedin.com/in/jovan-franco-6467871b/)
+- **Portafolio principal**: [Executive AI & IT Leadership Suite](https://github.com/jovfranco-tech/executive-ai-it-leadership-suite-showcase)
+- **Sitio web**: [www.jovanfranco.com](https://www.jovanfranco.com)
+- **LinkedIn**: [Perfil profesional](https://www.linkedin.com/in/jovan-franco-6467871b/)
