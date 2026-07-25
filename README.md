@@ -60,7 +60,7 @@ PMP® certified and ISO/IEC 42001 Lead Auditor, specializing in translating emer
 
 ## Featured Public Portfolio Demonstrations
 
-The following public web applications demonstrate architectural models, AI governance frameworks, and executive decision-support systems built with representative data:
+The following public web applications demonstrate architectural models, AI governance frameworks, and interactive system prototypes built with representative data:
 
 1. **[AI Governance Control Tower](https://ai-governance-control-tower.vercel.app/)**
    - *Scope*: ISO/IEC 42001 aligned prototype for AI project intake scoring, control tracking, risk registers, and audit-ready evidence logs.
@@ -70,9 +70,13 @@ The following public web applications demonstrate architectural models, AI gover
    - *Scope*: Public registry prototype defining agent ownership, permission boundaries, risk classifications, and human-in-the-loop controls.
    - *Key Focus*: Operational control over autonomous agentic workflows.
 
-3. **[Enterprise AI & IT Leadership Suite](https://executive-command-center-one.vercel.app/committee)**
-   - *Scope*: Executive command layer consolidating AI portfolio health, FinOps metrics, IT operations, and governance signals.
-   - *Key Focus*: Board-level visibility into technology investments and operational risk.
+3. **[Agent Office World](https://agent-office-world.vercel.app/)**
+   - *Scope*: Isometric 2D/3D office simulation demonstrating real-time AI agent collaboration, task routing, and interactive workplace dynamics.
+   - *Key Focus*: Interactive multi-agent collaboration visualization.
+
+4. **[Florería Paola Taste Lab](https://floreria-paola-taste-lab.vercel.app/)**
+   - *Scope*: Design system and front-end architecture comparison lab evaluating UX metrics and performance upgrades.
+   - *Key Focus*: Modern web design aesthetics and front-end engineering precision.
 
 ---
 
