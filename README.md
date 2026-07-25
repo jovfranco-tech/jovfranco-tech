@@ -60,21 +60,25 @@ PMP® certified and ISO/IEC 42001 Lead Auditor, specializing in translating emer
 
 ## Featured Public Portfolio Demonstrations
 
-The following public web applications demonstrate architectural models, AI governance frameworks, and interactive system prototypes built with representative data:
+The following public web applications and architectural showcases demonstrate executive decision-support models, AI governance frameworks, and interactive system prototypes built with representative data:
 
-1. **[AI Governance Control Tower](https://ai-governance-control-tower.vercel.app/)**
-   - *Scope*: ISO/IEC 42001 aligned prototype for AI project intake scoring, control tracking, risk registers, and audit-ready evidence logs.
+1. **[Executive AI & IT Leadership Suite Showcase](https://github.com/jovfranco-tech/executive-ai-it-leadership-suite-showcase)** *(Primary Portfolio Showcase)*
+   - *Scope*: Master architectural showcase unifying six domain portfolio modules under the Executive Command Center operating model.
+   - *Key Focus*: Comprehensive decision support for AI governance, agent registry, PMO velocity, IT operations, AI portfolio, and hybrid FinOps.
+
+2. **[AI Governance Control Tower](https://ai-governance-control-tower.vercel.app/)**
+   - *Scope*: ISO/IEC 42001 aligned prototype for AI project intake scoring, control tracking, risk registers, and audit-ready evidence logs. ([Showcase Repository](https://github.com/jovfranco-tech/ai-governance-control-tower-showcase))
    - *Key Focus*: Verifiable AI governance and policy exception lifecycle.
 
-2. **[AI Agent Governance Registry](https://ai-governance-registry.vercel.app/)**
-   - *Scope*: Public registry prototype defining agent ownership, permission boundaries, risk classifications, and human-in-the-loop controls.
+3. **[AI Agent Governance Registry](https://ai-governance-registry.vercel.app/)**
+   - *Scope*: Public registry prototype defining agent ownership, permission boundaries, risk classifications, and human-in-the-loop controls. ([Showcase Repository](https://github.com/jovfranco-tech/ai-agent-governance-registry-showcase))
    - *Key Focus*: Operational control over autonomous agentic workflows.
 
-3. **[Agent Office World](https://agent-office-world.vercel.app/)**
+4. **[Agent Office World](https://agent-office-world.vercel.app/)**
    - *Scope*: Isometric 2D/3D office simulation demonstrating real-time AI agent collaboration, task routing, and interactive workplace dynamics.
    - *Key Focus*: Interactive multi-agent collaboration visualization.
 
-4. **[Florería Paola Taste Lab](https://floreria-paola-taste-lab.vercel.app/)**
+5. **[Florería Paola Taste Lab](https://floreria-paola-taste-lab.vercel.app/)**
    - *Scope*: Design system and front-end architecture comparison lab evaluating UX metrics and performance upgrades.
    - *Key Focus*: Modern web design aesthetics and front-end engineering precision.
 
