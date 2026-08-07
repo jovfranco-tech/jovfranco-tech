@@ -11,6 +11,17 @@ These rules apply to every repository owned by `jovfranco-tech`. They preserve t
 - Merge, release and production remain separate human-authorized actions.
 - Changes must be small, reversible, backward-compatible where practical and auditable.
 
+## Actions budget-lock mode — mandatory when metered Actions is blocked/exhausted
+When the GitHub Actions spending limit is reached, Actions is unavailable, or the user explicitly freezes GitHub usage for budget control:
+
+- Operate **local-first / GitHub-CI-free** until the budget window is restored or the user explicitly re-enables remote certification.
+- Do not depend on GitHub Actions to advance a roadmap. Development, branching, commits, lint, typecheck, deterministic tests, builds, Playwright, validators, security checks and technical gate preparation continue locally.
+- Keep `main` frozen unless a separate human-authorized integration is necessary. Do not merge merely to obtain CI feedback.
+- Avoid micro-pushes and PR churn. Accumulate coherent, larger validated blocks and preserve exact local Git commit/tree hashes plus `LOCAL-CERT` evidence and exact command results.
+- Never label local validation as **GitHub CI certified**. Evidence must explicitly say `LOCAL-CERT`, local validation, or equivalent.
+- When Actions capacity returns, reconcile accumulated work in the minimum practical number of pushes/PRs and run one complete remote certification per important block rather than replaying every intermediate checkpoint.
+- Budget-lock mode does not weaken acceptance criteria; it changes where and when evidence is produced.
+
 ## CI cost governance — mandatory
 Target: reduce GitHub Actions workflow executions by at least 90% versus the August 1–7, 2026 high-frequency baseline while preserving equivalent technical assurance.
 
