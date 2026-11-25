@@ -96,3 +96,12 @@ Líder senior con más de 15 años de experiencia en infraestructura empresarial
 - **Portafolio principal**: [Executive AI & IT Leadership Suite](https://github.com/jovfranco-tech/executive-ai-it-leadership-suite-showcase)
 - **Sitio web**: [www.jovanfranco.com](https://www.jovanfranco.com)
 - **LinkedIn**: [Perfil profesional](https://www.linkedin.com/in/jovan-franco-6467871b/)
+
+## Estado verificado 2026-11-25
+
+Resultado de la consolidación de ramas (solo hechos comprobados en git; no es una certificación ni una medición de producto).
+
+- No hay `package.json` en la raíz de `main`.
+- Archivos de prueba detectados: 0. **Las pruebas no se ejecutaron en esta pasada de consolidación** (sin instalar dependencias) salvo que se indique lo contrario en `docs/governance/BRANCH_CONSOLIDATION_PLAN_20261125.md`.
+- Ramas anteriores con trabajo propio (incluida la reescritura de README `docs/readme-reconciliation-001`) se conservan como tags `archive/20261125/*`; su contenido no se fusionó por no poder verificarse contra el código.
+- Detalle de la consolidación: `docs/governance/BRANCH_CONSOLIDATION_PLAN_20261125.md`.
